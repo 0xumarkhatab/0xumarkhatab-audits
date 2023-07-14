@@ -1,8 +1,9 @@
 
 <div>
 <p align="center">
-    <img border-radius="50%" src="https://avatars.githubusercontent.com/u/71306738?v=4"  height="150" />
+    <img  src="https://github.com/0xumarkhatab/myGasOptimizationWork/assets/71306738/32bfb132-ed5e-4ad6-88d5-47fe20ff5f03"  height="200" />
 </p>
+
 <h1 align="center">My Audits</h1>
 <h2 align="center">Public Audits and Bug reports</h2>
 <p align="center">Umar Khatab - Independent Security Researcher</p>  
