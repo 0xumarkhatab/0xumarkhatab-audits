@@ -23,7 +23,7 @@ Triumphing the building, now he is heading toward securing the protocols.
 
 Here are his recent audits :
 
-| SR # |  Title | Statistics | Results | My Work |
-| --- | -------| -------------- | ------------| -------------|
-| 1 | [BeedleFi](https://twitter.com/@beedlefi) | ✔ 2 Highs <br/> ✔ 5 Mediums <br/> ✔ 1 Gas | 12$ | [ BeedleFi-Aug7 ]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 
+| SR # |  Title | Platform | Statistics | Results | My Work | Leaderboard Rank
+| --- | -------| -------------- | --- |--- | ------------| -------------|
+| 1 | [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks | ✔ 2 Highs <br/> ✔ 5 Mediums <br/> ✔ 1 Gas | 12$ | [ BeedleFi-Aug7 ]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 131 |
 
