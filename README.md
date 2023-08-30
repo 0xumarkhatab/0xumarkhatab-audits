@@ -13,11 +13,11 @@
 
 ## About Me
 
-Umar Khatab is an aspiring Associate security researcher.
+Umar Khatab is an aspiring Aecurity researcher.
 
 He has worked in the blockchain space for 2.5 years as of now.
 
-Triumphing the building, now he is heading toward securing the protocols.
+Triumphing the building, now he is heading towards securing the Web3 ecosystem.
 
 ## Reports
 
