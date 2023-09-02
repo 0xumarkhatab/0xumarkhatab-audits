@@ -43,7 +43,7 @@ Here are his recent audits :
 
 | SR # |  Title | Platform | Statistics | Results | My Work | Leaderboard Rank
 | --- | -------| -------------- | --- |--- | ------------| -------------|
-| 1 | [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks | ✔ 2 Highs <br/> ✔ 5 Mediums <br/> ✔ 1 Gas | 13.14$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
+| 1 | [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks | ✔ 1 Highs <br/> ✔ 3 Mediums <br/> ✔ 1 Gas | 13.14$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
 | 2 | [Cyfrin Escrow ](https://twitter.com/CyfrinAudits) | CodeHawks | ✔ 1 Highs | 9$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | Pending |
 
 
