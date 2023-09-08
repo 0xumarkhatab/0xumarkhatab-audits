@@ -24,9 +24,11 @@ Triumphing the building, now he is heading towards securing the Web3 ecosystem.
 
 ## Collective Results
 
-Total Highs = 2 , Unique = 0
+Total Highs = 3 , Unique = 0
 
 Total Mediums = 3 ,  Unique = 0
+
+Total Lows = 1 ,  Unique = 0
 
 Total Earned = 22.14$
 
@@ -34,7 +36,7 @@ Total Earned = 22.14$
 
 | Leaderboard Rank | Platform | Total Payout | Highs ( Unique ) | Mediums ( Unique ) | Lows ( Unique ) | Gas|
 | --- | -------| -------------- | --- |--- | ------------| -------------|
-| 144 | Codehawks | $22.14 | 2 | 3 (0) | 1 (0) | 2 |
+| 109 | Codehawks | $16.14 | 3 | 3 (0) | 1 (0) | 2 |
 
 
 ## Reports
@@ -44,6 +46,8 @@ Here are his recent audits :
 | SR # |  Title | Platform | Statistics | Results | My Work | Leaderboard Rank
 | --- | -------| -------------- | --- |--- | ------------| -------------|
 | 1 | [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks | ✔ 1 Highs <br/> ✔ 3 Mediums <br/> ✔ 1 Gas | 13.14$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
-| 2 | [Cyfrin Escrow ](https://twitter.com/CyfrinAudits) | CodeHawks | ✔ 1 Highs | 9$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | Pending |
+| 2 | [Cyfrin Escrow ](https://twitter.com/CyfrinAudits) | CodeHawks | ✔ 1 Highs | 9$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
+| 3 | [Sparkn](https://twitter.com/sparkn_io) | CodeHawks | ✔ pending | Pending | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/Sparkn-Sep8)  | pending |
+
 
 
