@@ -6,12 +6,12 @@
 
 <h1 align="center">My Audits</h1>
 <h2 align="center">Public Audits and Bug reports</h2>
-<p align="center">Umar Khatab - Independent Security Researcher</p>  
+<h2 align="center">Umar Khatab</h2>  
 <hr/>
 </div>
 
 
-## About Me
+## About
 
 Umar Khatab is an aspiring Security researcher.
 
