@@ -1,13 +1,7 @@
 # Sparkn  - Findings Report
-
-# Table of contents
-- ## [Contest Summary](#contest-summary)
-- ## [Results Summary](#results-summary)
 - ## Low Risk Findings
-    - ### [L-01. Dos Attack to setContest by a miner](#L-01)
-    - ### [L-02. Proxy Implementation address can be overwritten by Implementation itself in future](#L-02)
-    - ### [L-03. Invariant failure : Proxy's _distribute Function is susceptible to donation attack with Rounding problem](#L-03)
-    - ### [L-04. Signature Replay in Proxy Factory](#L-04)
+    - ### [L-01. Invariant failure : Proxy's _distribute Function is susceptible to donation attack with Rounding problem](#L-03)
+    - ### [L-02. Signature Replay in Proxy Factory](#L-04)
 
 
 # <a id='contest-summary'></a>Contest Summary
@@ -21,93 +15,9 @@
 # <a id='results-summary'></a>Results Summary
 
 ### Number of findings:
-   - Low: 4
-
-
-
+   - Low: 2
 # Low Risk Findings
-
-## <a id='L-01'></a>L-01. Dos Attack to setContest by a miner            
-
-
-
-## Summary
-SetContest function can be front-runned and denied to provide service due to block.timestamp manipulations by miners.
-## Vulnerability Details
-Although it does not give much incentive to the miners there might be the cases in future where some miners 
-can prevent the execution of the `setContest` method for their benefit.
-
-The function uses block.timestamp which can be manipulated by the miners.
-They can either set it to very low or very high value.
-This will make the following condition get True and execute revert.
-
-`ProxyFactory#setContest`
-
-```solidity
-        if (closeTime > block.timestamp + MAX_CONTEST_PERIOD || closeTime < block.timestamp) {
-            revert ProxyFactory__CloseTimeNotInRange();
-        }
-
-```
-
-## Impact
-
-- The owner will be unable to set the details of any contest causing a denial of the service of the platform
-
-## Tools Used
-
-Manual review
-
-## Recommendations
-Keep in mind that block.timestamp can be manipulated and craft the closeTime condition accordingly.
-
-One thing we can do is cache the last timestamp value of successful deployment.
-
-And compare the last one with the close Time.
-
-
-If the last value is greater than that of the current blocktimestamp , we surely know that it has been manipulated and we just allow the contest to be created.
-
-For the case when block.timestamp is manipulated to a really high value like months, we can set a threshold like 5 days, if the last block.timestamp was 5 days ago or even 10( set this value based upon the perceived usage or maybe make a setter function to set its price later according to usage history)
-
-and then allow contest creation if the current timestamp is far more than estimated.
-## <a id='L-02'></a>L-02. Proxy Implementation address can be overwritten by Implementation itself in future            
-
-
-
-## Vulnerability Details
-Looking at the mechanism of storing the implementation address in a proxy contract,
-We can infer two things:
-
-- It is a non-standard method
-- vulnerable to being overwritten by the logic( implementation ) contract.
-
-Although the current implementation of the `Distributor` contract uses immutables and constants to store additional data inside the logic contract, in the future if there is a need to add some non-constant data inside the logic contract, this might cause an issue
-
-```solidity
-address private immutable _implementation;`
-```
-
-
-## Impact
-The implementation address can be overwritten by the logic contract inside the proxy's storage and the contest will be lost along with its associated tokens which will incur a loss to users and protocol.
-
-## Tools Used
-Manual review
-## Recommendations
-We should use a standard method of storing the implementation address at a storage slot that is very random and there are negligible chances of it being overwritten.
-
-here is the standard calculation by Openzeppelin:
-
-```solidity
-
-bytes32 private constant implementationPosition = bytes32(uint256(
-  keccak256('eip1967.proxy.implementation')) - 1
-));
-
-```
-
-## <a id='L-03'></a>L-03. Invariant failure : Proxy's _distribute Function is susceptible to donation attack with Rounding problem            
+## <a id='L-01'></a>L-01. Invariant failure: Proxy's _distribute Function is susceptible to donation attack with Rounding problem            
 
 
 
@@ -171,10 +81,11 @@ function testFuzzRounding(uint totalAmount,uint a)external {
     vm.assume(a<9000); // just 10% less than 100%
     vm.assume(a>1000); // at least one percent share for reality check
     // 500 is the commision fee
-    uint b=10000-a-500;
+    uint CommissionFee=500;
+    uint b=10000-a-CommissionFee;
     uint256 amount1 = totalAmount * a / 10000;
     uint256 amount2 = totalAmount * b / 10000;
-    assertEq(amount1+amount2,totalAmount);
+    assertEq(amount1+amount2+CommissionFee,totalAmount);
 
 
 }
@@ -231,7 +142,7 @@ Use `tokenBalance` instead of `totalAmount` in the `_distribute` function.
 
 
 
-## <a id='L-04'></a>L-04. Signature Replay in Proxy Factory            
+## <a id='L-02'></a>L-02. Signature Replay in Proxy Factory            
 
 
 
@@ -329,5 +240,5 @@ signatures[signature]=true;
 
 ```
 
-
+                                        <----------------------------------------->
 
