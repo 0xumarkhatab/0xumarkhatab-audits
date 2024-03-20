@@ -26,15 +26,15 @@ Triumphing the building, now he is heading towards securing the Web3 ecosystem.
 Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
-| -------| -------------- | -------------- | ----------- | ------------| -------------|
-| LandX | immunefi |✔ 1 Critical<br/>✔ 1 High | ✔ Escalated  | Will be available once confirmed | #
-| Hourglass | immunefi |✔ 2 Critical <br/>✔ 1 High | ✔ Escalated | Will be available once confirmed | #
-| Zerolend Boost | immunefi |✔ 2 Critical | ✔ Escalated  | Will be available once confirmed | #
-| Halborn CTF | Interview CTF |✔ 8 Critical<br/>✔ 4 High <br/>✔ 4 Med | Need to improve | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
-| TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |✔ 3 Critical <br/>✔ 1 High <br/>✔ 5 Medium | Waiting for the results | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | #
-| [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks |✔ 1 High <br/>✔ 3 Medium <br/>✔ 1 Gas | 13.14$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
-| [Cyfrin Escrow ](https://twitter.com/CyfrinAudits) | CodeHawks |✔ 1 High | 9$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
-| [Sparkn](https://twitter.com/sparkn_io) | CodeHawks |✔ 2 Low | 14$ | [Report](Sparkn_Sep8)  | 109 |
+| -------| ----------- | -------------- | ----------- | ------------| -------------|
+| LandX | immunefi |1 Critical<br/>1 Highs | ✔ Escalated  | Will be available once confirmed | #
+| Hourglass | immunefi |2 Critical <br/>1 Highs | ✔ Escalated | Will be available once confirmed | #
+| Zerolend Boost | immunefi |2 Critical | ✔ Escalated  | Will be available once confirmed | #
+| Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | Need to improve | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
+| TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | Waiting for the results | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | #
+| [BeedleFi](https://twitter.com/@beedlefi) | CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | 13.14$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
+| [Cyfrin Escrow ](https://twitter.com/CyfrinAudits) | CodeHawks |1 Highs | 9$ | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
+| [Sparkn](https://twitter.com/sparkn_io) | CodeHawks |2 Lows | 14$ | [Report](Sparkn_Sep8)  | 109 |
 
 
 
