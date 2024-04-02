@@ -15,7 +15,7 @@
 
 Umar Khatab is an aspiring Security researcher.
 
-He has worked in the blockchain space for more than 2 years as of now.
+He has worked in the blockchain space for more than 3 years as of now.
 
 Triumphing the building, now he is heading towards securing the Web3 ecosystem.
 
@@ -27,6 +27,7 @@ Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
+| AladdinDAO-Core | Indepent | 3 Critical<br/>1 Highs | ✔ Confirmed  |[Report](https://gist.github.com/0xumarkhatab/e9b3caf1a54efc38e73a10992f302028) | #
 | LandX | immunefi |1 Critical<br/>1 Highs | ✔ Escalated  | Will be available once confirmed | #
 | Hourglass | immunefi |2 Critical <br/>1 Highs | ✔ Escalated | Will be available once confirmed | #
 | Zerolend Boost | immunefi |2 Critical | ✔ Escalated  | Will be available once confirmed | #
