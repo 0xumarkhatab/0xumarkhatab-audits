@@ -17,11 +17,11 @@
 
 Umar Khatab is a Web3 Whitehat.
 
-He has worked in the blockchain space for more than 3 years as of now.
+He has worked in the blockchain space for more than 3 years.
 
-After building multiple protocols, he is now focusing more on Securing the Web3 ecosystem.
+After building multiple protocols, his current focus is to Secure the Web3 ecosystem.
 
-If you are planning to launch your protocol in secure way , [Book an Audit](https://twitter.com/0xumarkhatab)
+If you are planning to launch your Protocol with a solid Audit, [Book an Security Review](https://twitter.com/0xumarkhatab)
 
 
 ## Reports
@@ -33,10 +33,10 @@ Here are his recent audits :
 | AladdinDAO-Core | Independent | 3 Critical<br/>1 Highs | ☑ In-review  |[Report](https://gist.github.com/0xumarkhatab/e9b3caf1a54efc38e73a10992f302028) | #
 | LandX | immunefi |1 Critical<br/>1 Highs | ☑  In-review  | Not available | #
 | Hourglass | immunefi |2 Critical <br/>1 Highs | ☑  In-review | Not available | #
-| Zerolend Boost | immunefi |2 Critical | ✔ Confirmed  | Will be available once confirmed | #
+| Zerolend Boost | immunefi |2 Critical | ✔ Confirmed  | Not available | #
 | Puffer Boost | immunefi |2 Med | ✅ Paid  | Not available | #
-| Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | Need to improve | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
-| TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | Waiting for the results | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | # |
+| Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
+| TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | # |
 | Cyfrin Escrow | CodeHawks |1 Highs | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
 | Sparkn | CodeHawks |2 Lows | ✅ Paid | [Report](Sparkn_Sep8)  | 109 |
 | BeedleFi| CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
