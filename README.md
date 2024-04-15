@@ -30,16 +30,16 @@ Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
-| AladdinDAO-Core | Independent | 3 Critical<br/>1 Highs | 🎈 In-review  |[Report](https://gist.github.com/0xumarkhatab/e9b3caf1a54efc38e73a10992f302028) | #
-| LandX | immunefi |1 Critical<br/>1 Highs | 🎈 In-review  | Not available | #
-| Hourglass | immunefi |2 Critical <br/>1 Highs | 🎈 In-review | Not available | #
+| AladdinDAO-Core | Independent | 3 Critical<br/>1 Highs | ☑ In-review  |[Report](https://gist.github.com/0xumarkhatab/e9b3caf1a54efc38e73a10992f302028) | #
+| LandX | immunefi |1 Critical<br/>1 Highs | ☑  In-review  | Not available | #
+| Hourglass | immunefi |2 Critical <br/>1 Highs | ☑  In-review | Not available | #
 | Zerolend Boost | immunefi |2 Critical | ✔ Confirmed  | Will be available once confirmed | #
-| Puffer Boost | immunefi |2 Med | 💰 Paid  | Not available | #
+| Puffer Boost | immunefi |2 Med | ✅ Paid  | Not available | #
 | Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | Need to improve | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
 | TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | Waiting for the results | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | # |
-| Cyfrin Escrow | CodeHawks |1 Highs | 💰 Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
-| Sparkn | CodeHawks |2 Lows | 💰 Paid | [Report](Sparkn_Sep8)  | 109 |
-| BeedleFi| CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | 💰 Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
+| Cyfrin Escrow | CodeHawks |1 Highs | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
+| Sparkn | CodeHawks |2 Lows | ✅ Paid | [Report](Sparkn_Sep8)  | 109 |
+| BeedleFi| CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
 
 
 
