@@ -31,10 +31,10 @@ Here are his recent audits :
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
 | AladdinDAO-Core | Independent | 3 Critical<br/>1 Highs | ☑ In-review  |[Report](https://gist.github.com/0xumarkhatab/e9b3caf1a54efc38e73a10992f302028) | #
-| LandX | immunefi |1 Critical<br/>1 Highs | ☑  In-review  | Private | #
-| Hourglass | immunefi |2 Critical <br/>1 Highs | ☑  In-review | Private | #
-| Zerolend Boost | immunefi |2 Critical | ✔ Confirmed  | Private| #
-| Puffer Boost | immunefi |2 Med | ✅ Paid  | Private | #[22](https://drive.google.com/file/d/1ra8reO3Yvlgzm-OAhzak24jVCfhBEziz/view?usp=drive_open)
+| LandX | immunefi | 1 Critical<br/>1 Highs | ☑  In-review  | Private | #
+| Hourglass | immunefi | 2 Critical <br/>1 Highs | ☑  In-review | Private | #
+| Zerolend Boost | immunefi | 1 High <br/> 1 Medium | ✔ Confirmed  | Private| #
+| Puffer Boost | immunefi |2 Insights | ✅ Paid  | Private | #[22](https://drive.google.com/file/d/1ra8reO3Yvlgzm-OAhzak24jVCfhBEziz/view?usp=drive_open)
 | Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
 | TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | # |
 | Cyfrin Escrow | CodeHawks |1 Highs | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
