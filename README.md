@@ -30,6 +30,7 @@ Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
+| Venus Protocol | Cantina | Multiple lows | ☑ Confirmed  | Private |[8/8](https://x.com/0xumarkhatab/status/1786616891143790846)  
 | AladdinDAO-Core | Independent | 3 Criticals <br/>1 Highs | ☑ Confirmed  | Private | #
 | AladdinDAO - F(x) Audit | Independent | 1 High <br/>2 Med | ☑ Confirmed  | Private | #
 | LandX | immunefi | 1 Critical<br/>1 Highs | ☑  Escalated  | Private | #
@@ -41,6 +42,7 @@ Here are his recent audits :
 | Cyfrin Escrow | CodeHawks |1 Highs | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
 | Sparkn | CodeHawks |2 Lows | ✅ Paid | [Report](Sparkn_Sep8)  | 109 |
 | BeedleFi| CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
+| Dopex | Cod4rena |1 Highs | ✅ Paid | [Report](https://github.com/code-423n4/2023-08-dopex-findings/issues/549)  | 915 All time |
 
 
 
