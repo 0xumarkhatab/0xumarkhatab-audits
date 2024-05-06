@@ -30,7 +30,7 @@ Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
-| Venus Protocol | Cantina | Multiple lows | ☑ Confirmed  | Private |[8/8](https://x.com/0xumarkhatab/status/1786616891143790846)  
+| Venus Protocol | Cantina | Multiple lows | ☑ Confirmed  | Private |[8](https://x.com/0xumarkhatab/status/1786616891143790846)  
 | AladdinDAO-Core | Independent | 3 Criticals <br/>1 Highs | ☑ Confirmed  | Private | #
 | AladdinDAO - F(x) Audit | Independent | 1 High <br/>2 Med | ☑ Confirmed  | Private | #
 | LandX | immunefi | 1 Critical<br/>1 Highs | ☑  Escalated  | Private | #
