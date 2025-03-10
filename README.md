@@ -1,11 +1,5 @@
 
 <div background="black">
-<p align="center">
-    <img  src="https://github.com/0xumarkhatab/0xumarkhatab-audits/assets/71306738/e492c27c-8d66-488e-bacc-ec68a130615a"  height="200" />
-</p>
-
-
-
 <h1 align="center">My Audits</h1>
 <h2 align="center">Public Audits and Bug reports</h2>
 <h2 align="center">Umar Khatab</h2>  
