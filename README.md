@@ -30,16 +30,10 @@ Here are his recent audits :
 
 | Title | Platform | Statistics | Results | My Work | Leaderboard Rank ( if applicable )|
 | -------| ----------- | -------------- | ----------- | ------------| -------------|
-| PerpProtocol | Sherlock | 1 Med | ☑ Paid  | [Check here](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues/44) |[9/176]([https://x.com/0xumarkhatab/status/1786616891143790846](https://x.com/0xumarkhatab/status/1788187868570980616))
+| Zerolend Boost | immunefi | 1 High <br/> 1 Med  <br/> 2 Insights| ✅ Paid  | [H-1](https://reports.immunefi.com/zerolend/29145-sc-high-zerolendtoken-is-bricked-to-use-for-whitelisted...) <br/>  [M-1](https://reports.immunefi.com/zerolend/29130-sc-medium-unlimited-minting-of-vestedzeronft)<br/> [L-1](https://reports.immunefi.com/zerolend/29149-sc-insight-dos-in-zero-registry-configuration-updation)<br/> [L-2](https://reports.immunefi.com/zerolend/29262-sc-insight-some-users-can-get-more-rewards-than-others-whi...)| [#9](https://immunefi.com/audit-competition/zerolend-boost/leaderboard/#top)
+| PerpProtocol | Sherlock | 1 Med | ✅ Paid  | [Check here](https://github.com/sherlock-audit/2024-02-perpetual-judging/issues/44) |[9/176]([https://x.com/0xumarkhatab/status/1786616891143790846](https://x.com/0xumarkhatab/status/1788187868570980616))
 | Venus Protocol | Cantina | Multiple lows | ☑ Confirmed  | Private |[8](https://x.com/0xumarkhatab/status/1786616891143790846)  
-| AladdinDAO-Core | Independent | 3 Criticals <br/>1 Highs | ☑ Confirmed  | Private | #
-| AladdinDAO - F(x) Audit | Independent | 1 High <br/>2 Med | ☑ Confirmed  | Private | #
-| LandX | immunefi | 1 Critical<br/>1 Highs | ☑  Escalated  | Private | #
-| Hourglass | immunefi | 2 Critical | ☑  Escalated | Private | #
-| Zerolend Boost | immunefi | 1 High <br/> 1 Med  <br/> 2 Insights| ✅ Paid  | Private| #
 | Puffer Boost | immunefi |2 Insights | ✅ Paid  | Private | #[22](https://drive.google.com/file/d/1ra8reO3Yvlgzm-OAhzak24jVCfhBEziz/view?usp=drive_open)
-| Halborn CTF | Interview CTF |8 Critical<br/>4 High <br/>4 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_Halborn_CTF_Audit_Report.pdf) | #
-| TechFund CTF - <br/> Polygon zk-evm bridge <br/> 2022 version | Interview CTF |3 Critical <br/>1 Highs <br/>5 Med | ✅ Acked | [Report](https://github.com/0xumarkhatab/0xumarkhatab-audits/blob/main/PDFs/0xumarkhatab_techfund_Polygon_zkEVM_Eth_bridge.pdf) | # |
 | Cyfrin Escrow | CodeHawks |1 Highs | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/CyfrinEscrow-Aug5)  | 109 |
 | Sparkn | CodeHawks |2 Lows | ✅ Paid | [Report](Sparkn_Sep8)  | 109 |
 | BeedleFi| CodeHawks |1 Highs <br/>3 Med <br/>1 Gas | ✅ Paid | [Report]( https://github.com/0xumarkhatab/0xumarkhatab-audits/tree/main/BeedleFi-Aug7)  | 144 |
